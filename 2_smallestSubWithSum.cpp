@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+// https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article
 // } Driver Code Ends
 class Solution{
   public:
