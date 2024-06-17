@@ -6,7 +6,7 @@ using namespace std;
 // } Driver Code Ends
 class Solution{
   public:
-
+	//* Time complexity O(N)
     int smallestSubWithSum(int arr[], int n, int x)
     {
 		int windowSum = 0, start = 0, end = 0, result = INT_MAX;
