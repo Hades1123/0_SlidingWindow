@@ -9,7 +9,6 @@ class Solution{
 
     int smallestSubWithSum(int arr[], int n, int x)
     {
-        // Your code goes here   
 		int windowSum = 0, start = 0, end = 0, result = INT_MAX;
 		while(end < n)
 		{
